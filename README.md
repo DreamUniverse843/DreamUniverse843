@@ -6,7 +6,7 @@ Partly understand how a website work and to be made,willing to study for a long 
 
 一位操作系统 & Minecraft 爱好者，前校竞赛队成员，现就读于文科班。
 
-对网站有一部分了解（静态/动态/前后端），热爱钻研，探求事物的联系和本质~~(这不是政治)~~，乐于答疑解惑，仍在继续学习。
+对网站有一部分了解（静态/动态/前后端），热爱钻研，探求事物的联系和本质(这不是政治qwq)，乐于答疑解惑，仍在继续学习。
 
 ![My most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=DreamUniverse843&layout=compact)
 
