@@ -1,5 +1,14 @@
-### Hi there 👋
+### DreamUniverse - @DreamUniverse843
 
+An operating system enthusiast,form NOI School teammate of The High School Affiliated to Harbin Normal University.
+
+Partly understand how a website work and to be made,willing to study for a long time.
+
+一位操作系统爱好者，前附中校竞赛队成员，现就读于文科班。
+
+对网站有一部分了解（静态/动态/前后端），仍在继续学习。
+
+![My most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=DreamUniverse843&layout=compact)
 <!--
 **DreamUniverse843/DreamUniverse843** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
