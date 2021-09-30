@@ -2,7 +2,7 @@
 
 An operating system and Minecraft enthusiast,form NOI School teammate of The High School Affiliated to Harbin Normal University.
 
-Partly understand how a website work and to be made,willing to study for a long time.
+Partly understand how a website works and to be made,willing to study for a long time.
 
 一位操作系统 & Minecraft 爱好者，前校竞赛队成员，现就读于文科班。
 
