@@ -20,7 +20,7 @@ Partly understand how a website works and to be made,willing to study for a long
 
 - E-Mail: [xiaoyuzhimeng@foxmail.com](mailto:xiaoyuzhimeng@foxmail.com)
 - BiliBili: [晓宇致梦Universe](https://space.bilibili.com/456499155)
-- Dreamcraft: [Dreamcraft·星梦工艺](https://www.dreamcraft.com.cn)
+- DreamCraft: [DreamCraft·星梦工艺](https://www.dreamcraft.com.cn)
 
 
 <!--
